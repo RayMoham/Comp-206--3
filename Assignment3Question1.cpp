@@ -109,4 +109,4 @@ std:: cout << "The number of white spaces are: " << counterfunc;
 
 // The result of the count is based on the file downloaded subtracting the ending phrase 
 // "This excerpt is adapted from Alice’s Adventures in Wonderland by Lewis Carroll, available from Project Gutenberg. http://www.gutenberg.org/files/11/11-h/11-h.htm"
-// I have deleted this part as it is not part of sample text and the answer will be without this. and so will the rest of q2 and 3
+// I have deleted this part as it is not part of sample text and the answer will be without this. and so will the rest of q2 and 3. Please grade according to this change.
