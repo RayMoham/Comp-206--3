@@ -76,7 +76,7 @@ using namespace std;
 string linespace;
 int count = 0; 
 
-int whitespacecount( string exerptfile){ 	// exfile argument taken - returning int
+int whitespacecount( string exerptfile){ 	// exerptfile argument taken - returning int
 	std::ifstream file(exerptfile);	// opens file using ifstream
 
 //This function will process my word count using while loop and File I/O stream methods
