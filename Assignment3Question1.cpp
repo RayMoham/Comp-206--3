@@ -2,7 +2,7 @@
  Name: Rayan Kaleem Mohammed
  Athabasca University ID: 3669212
  Description: Whitespace Counter - A piece of code which counts whitespaces of a given file
- Date: Dec 1st, 2023
+ Date: Dec 3rd, 2023
 */
 
 /*

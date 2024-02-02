@@ -162,7 +162,7 @@ private:
 	string variable[100];	// array of 100 elements
 
 public: 
-// deafult constructor 
+// default constructor 
 	TextFileReader() {}
 
 //parametrized constructor with opening file and reading the contents of the string and filling it 
